@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PavtiPro</string>
+    <string name="customer_name">Customer Name</string>
+    <string name="date">Date</string>
+    <string name="gold_color">Color of Gold</string>
+    <string name="item_type">Item Type</string>
+    <string name="stone_types">Stone Types</string>
+    <string name="design_no">Design Number</string>
+    <string name="lot_number">Lot Number</string>
+    <string name="carat">Carat (CT)</string>
+    <string name="gram">Gram</string>
+    <string name="stone_weight">Stone Weight</string>
+    <string name="amount">Amount (₹)</string>
+    <string name="generate_invoice">Generate Invoice</string>
+    <string name="clear">Clear</string>
+    <string name="finish">Finish</string>
+    <string name="back">Back</string>
+    <string name="invoice_title">PavtiPro - Invoice Generator</string>
+    <string name="company_name">PavtiPro Jewellers</string>
+    <string name="invoice_header">INVOICE</string>
+</resources>
